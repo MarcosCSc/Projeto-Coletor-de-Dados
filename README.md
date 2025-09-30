@@ -57,12 +57,12 @@ pip3 install -r requirements.txt
 
 No Windows:
 ```bash
-python scraper_filmes.py
+python main.py
 ```
 
 No Linux/Mac:
 ```bash
-python3 scraper_filmes.py
+python3 main.py
 ```
 
 ### Resultado
